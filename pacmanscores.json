@@ -1,0 +1,79 @@
+{
+    "players":[
+        {
+            "id": 1,
+            "name": "Joe",
+            "score": 87469
+        },
+        {
+            "id": 2,
+            "name": "Bill",
+            "score": 54469
+        },
+        {
+            "id": 3,
+            "name": "Sam",
+            "score": 87809
+        },
+        {
+            "id": 4,
+            "name": "Chris",
+            "score": 10004
+        },
+        {
+            "id": 5,
+            "name": "Mike",
+            "score": 869
+        },
+        {
+            "id": 6,
+            "name": "Rob",
+            "score": 25544
+        },
+        {
+            "id": 7,
+            "name": "Aladdin",
+            "score": 874569
+        },
+        {
+            "id": 8,
+            "name": "Professor",
+            "score": 85669
+        },
+        {
+            "id": 9,
+            "name": "Spike",
+            "score": 90283
+        },
+        {
+            "id": 10,
+            "name": "Lester",
+            "score": 15898
+        },
+        {
+            "id": 11,
+            "name": "Will",
+            "score": 454
+        },
+        {
+            "id": 12,
+            "name": "Sandy",
+            "score": 243467
+        },
+        {
+            "id": 13,
+            "name": "Tom",
+            "score": 453546
+        },
+        {
+            "id": 14,
+            "name": "Ricky",
+            "score": 54535
+        },
+        {
+            "id": 15,
+            "name": "Randy",
+            "score": 645687
+        }
+    ]
+}
